@@ -11,7 +11,7 @@ module.exports = {
 			database : 'my_db'
 		});
 	},
-	select: function(query) {
+	query: function(query) {
 		var that = this;
 
 		// pause the queue
