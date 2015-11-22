@@ -1,0 +1,19 @@
+{
+  "name": "qure-mysql",
+  "version": "1.0.0",
+  "description": "MySQL wrapper for QureJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbi99/qure-mysql.git"
+  },
+  "author": "Hakan Bilgin <hbi@longscript.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbi99/qure-mysql/issues"
+  },
+  "homepage": "https://github.com/hbi99/qure-mysql#readme"
+}
