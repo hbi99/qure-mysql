@@ -53,6 +53,8 @@ module.exports = {
 					}
 				});
 			};
+		// exit if no queries
+		if (!queries.length) return;
 		// pause the queue
 		this.pause(true);
 		// open database connection
